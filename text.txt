@@ -12,7 +12,11 @@ dsad
 sadsadsadsad
 sadsadsada
 sds
+<<<<<<< HEAD
 ad卡萨丁看来撒旦撒肯德基撒赖扩大就
+=======
+ad啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+>>>>>>> 77dc34012c3709dcb0913e0dec044d7c9433b8a0
 sadsadsadd
 asfdas
 dddddddddas
